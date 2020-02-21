@@ -4,6 +4,7 @@
 
 a)
 O(n^3)
+while loop runs on th order on n**3
 
 b)
 outer loop runs n times..O(n)
@@ -14,6 +15,8 @@ alltogether O(n log n)
 c)
 
 O(n)
+
+for any bunnies n
 
 ## Exercise II
 
